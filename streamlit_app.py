@@ -2,4 +2,5 @@ import streamlit
 streamlit.title('My Parents New Healty Diner')
 
 
-streamlit.body('Breakfast: Idli Shabhar Dosa')
+streamlit.header('Breakfast Menu')
+streamlit.text('Idli Sambhar Dosa')
